@@ -245,7 +245,7 @@ image::Template_Results.png[]
 * Lastly, the format of the name entered by the user must adhere to specific rules:
 . It must begin with a capital letter.
 . It can include only letters (upper or lower case), numbers, or underscores.
-. It's maximum length can only be 5 letters.
+. Its maximum length can only be 5 letters.
 
 === Requirement 1: Merge into a single form
 
