@@ -48,7 +48,7 @@ Are you ready to dive in? Let's begin by guiding you through the process of logg
 
 === Login to Red Hat Developer Hub (RHDH)
 
-* The login process for our workshop leverages the link:https://janus-idp.io/plugins/keycloak[keycloack plugin,window=_blank].
+* The login process for our workshop leverages the link:https://janus-idp.io/plugins/keycloak[keycloak plugin,window=_blank].
 * Our *Platform Engineering* team has set up link:https://www.keycloak.org/[Keycloak,window=_blank] to use *GitLab* as the identity provider.
 *  Authenticating to RHDH involves four straightforward steps:
 
@@ -119,7 +119,7 @@ image::RHOne-System.png[]
 . Toggle off the *Simplified* option.
 . Finally, turn on the *Merge Relations* toggle.
 
-* Your graph will now look like the follwoing screenshot.
+* Your graph will now look like the following screenshot.
 
 image::System_Relations_Graph.png[]
 
