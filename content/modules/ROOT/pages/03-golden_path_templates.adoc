@@ -110,7 +110,7 @@ image::RHDH_Dashboard.png[]
 * While *OpenShift Dev Spaces* is setting up your workspace, let's take this opportunity to further explore the *RHDH Dashboard*.
 * Return to the *Overview* tab in your browser and select the *View TechDocs* link in the *About* tile.
 
-NOTE: You can also access the Documentation from by selecting Docs from the upper menu.
+NOTE: You can also access the Documentation form by selecting Docs from the upper menu.
 
 image::TechDocs_Link.png[]
 
@@ -313,7 +313,7 @@ image::ArgoCD_Healthy_Status.png[]
 
 * Then, move to the *Image Registry* tab.
 * The *Registry* should now be populated with images.
-* Click on the *Scan Results* for the image tagged as *latest* to review it's scan results.
+* Click on the *Scan Results* for the image tagged as *latest* to review its scan results.
 
 
 image::Scanned_Image_In_Quay.png[]
